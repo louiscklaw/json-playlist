@@ -1,5 +1,11 @@
 # README
 
-simple test json hosting site
+simple self-test json hosting site
 
-member json
+### helloworld
+```
+➜ curl https://raw.githubusercontent.com/louiscklaw/json-playlist/master/helloworld.json
+{
+  "hello": "world"
+}
+```
