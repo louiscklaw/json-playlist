@@ -3,4 +3,5 @@
 set -ex
 
 yarn
+
 node app.js
