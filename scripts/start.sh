@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-node server.js
+nodemon app.js

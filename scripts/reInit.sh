@@ -8,4 +8,4 @@ rm -rf node_modules
 
 npm init -y
 
-yarn add apollo-server-express@1 graphql-tools graphql express body-parser
+yarn add express graphql express-graphql
